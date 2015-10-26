@@ -18,3 +18,15 @@ ecmascript              # Enable ECMAScript2015+ syntax in app code
 
 autopublish             # Publish all data to the clients (for prototyping)
 insecure                # Allow all DB writes from clients (for prototyping)
+
+twbs:bootstrap
+
+aldeed:autoform         #Crate forms with automatic insert and update
+aldeed:collection2      #validation of insert and update operations on the client and server
+accounts-password       #password support for acounts
+ian:accounts-ui-bootstrap-3     #Bootstrap-styled accounts with support for multi-language
+iron:router             #routing specifically designed for Meteor
+sacha:spin              #Siple spinner package designed for meteor
+underscore              #Front-end framework for reposnsive, mobile first projects
+ejson                   #extended and extensible JSON library
+check                   #check whether a value matches a pattern
